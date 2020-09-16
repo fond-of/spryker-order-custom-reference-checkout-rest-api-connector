@@ -1,6 +1,6 @@
 {
-  "name": "fond-of-spryker/order-custom-reference-rest-api",
-  "description": "OrderCustomReferenceRestApi Module",
+  "name": "fond-of-spryker/order-custom-reference-checkout-rest-api-connector",
+  "description": "OrderCustomReferenceCheckoutRestApiConnector Module",
   "license": "MIT",
   "authors": [
     {
@@ -10,7 +10,7 @@
   ],
   "require": {
     "php": ">=7.1",
-    "spryker/sales": "10.2.4"
+    "spryker/quote": "^2.0.0"
   },
   "require-dev": {
     "spryker/code-sniffer": "^0.12",
