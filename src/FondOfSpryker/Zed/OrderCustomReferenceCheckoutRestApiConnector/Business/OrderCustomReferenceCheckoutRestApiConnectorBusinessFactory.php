@@ -6,7 +6,7 @@ use FondOfSpryker\Zed\OrderCustomReferenceCheckoutRestApiConnector\Business\Mapp
 use FondOfSpryker\Zed\OrderCustomReferenceCheckoutRestApiConnector\Business\Mapper\OrderCustomReferenceQuoteMapperInterface;
 use Spryker\Zed\Kernel\Business\AbstractBusinessFactory;
 
-class OrderCustomReferenceCheckoutRestApiConnectorRestApiBusinessFactory extends AbstractBusinessFactory
+class OrderCustomReferenceCheckoutRestApiConnectorBusinessFactory extends AbstractBusinessFactory
 {
     /**
      * @return \FondOfSpryker\Zed\OrderCustomReferenceRestApi\Business\Mapper\OrderCustomReferenceQuoteMapperInterface

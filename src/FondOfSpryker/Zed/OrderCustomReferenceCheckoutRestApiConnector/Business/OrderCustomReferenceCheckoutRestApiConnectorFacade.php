@@ -10,7 +10,7 @@ use Spryker\Zed\Kernel\Business\AbstractFacade;
 /**
  * @method \FondOfSpryker\Zed\OrderCustomReferenceCheckoutRestApiConnector\Business\OrderCustomReferenceCheckoutRestApiConnectorRestApiBusinessFactory getFactory()
  */
-class OrderCustomReferenceCheckoutRestApiConnectorRestApiFacade extends AbstractFacade implements OrderCustomReferenceCheckoutRestApiConnectorFacadeInterface
+class OrderCustomReferenceCheckoutRestApiConnectorFacade extends AbstractFacade implements OrderCustomReferenceCheckoutRestApiConnectorFacadeInterface
 {
 
     /**
