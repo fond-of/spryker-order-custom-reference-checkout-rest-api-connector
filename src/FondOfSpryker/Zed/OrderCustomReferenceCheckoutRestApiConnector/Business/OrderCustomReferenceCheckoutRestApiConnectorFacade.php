@@ -8,7 +8,7 @@ use Generated\Shared\Transfer\RestCheckoutRequestAttributesTransfer;
 use Spryker\Zed\Kernel\Business\AbstractFacade;
 
 /**
- * @method \FondOfSpryker\Zed\OrderCustomReferenceCheckoutRestApiConnector\Business\OrderCustomReferenceCheckoutRestApiConnectorRestApiBusinessFactory getFactory()
+ * @method \FondOfSpryker\Zed\OrderCustomReferenceCheckoutRestApiConnector\Business\OrderCustomReferenceCheckoutRestApiConnectorBusinessFactory getFactory()
  */
 class OrderCustomReferenceCheckoutRestApiConnectorFacade extends AbstractFacade implements OrderCustomReferenceCheckoutRestApiConnectorFacadeInterface
 {

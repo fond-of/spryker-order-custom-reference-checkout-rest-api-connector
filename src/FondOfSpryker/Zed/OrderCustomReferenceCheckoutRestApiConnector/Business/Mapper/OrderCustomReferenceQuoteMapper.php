@@ -24,7 +24,7 @@ class OrderCustomReferenceQuoteMapper implements OrderCustomReferenceQuoteMapper
         }
 
         $quoteTransfer
-            ->setOrderCustomReference($restCheckoutRequestAttributesTransfer->getOrderCustomReference());
+            ->setOrderCustomReference($orderCustomReference);
 
         return $quoteTransfer;
     }
