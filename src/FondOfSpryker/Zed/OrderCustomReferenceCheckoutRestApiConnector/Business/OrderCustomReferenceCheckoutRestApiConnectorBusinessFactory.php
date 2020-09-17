@@ -9,7 +9,7 @@ use Spryker\Zed\Kernel\Business\AbstractBusinessFactory;
 class OrderCustomReferenceCheckoutRestApiConnectorBusinessFactory extends AbstractBusinessFactory
 {
     /**
-     * @return \FondOfSpryker\Zed\OrderCustomReferenceRestApi\Business\Mapper\OrderCustomReferenceQuoteMapperInterface
+     * @return \FondOfSpryker\Zed\OrderCustomReferenceCheckoutRestApiConnector\Business\Mapper\OrderCustomReferenceQuoteMapperInterface
      */
     public function createOrderCustomReferenceQuoteMapper(): OrderCustomReferenceQuoteMapperInterface
     {

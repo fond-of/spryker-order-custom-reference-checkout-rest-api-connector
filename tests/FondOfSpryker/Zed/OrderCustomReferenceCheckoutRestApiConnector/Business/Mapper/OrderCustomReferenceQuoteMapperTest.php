@@ -1,6 +1,6 @@
 <?php
 
-namespace FondOfSpryker\Zed\CompanyUnitAddressesRestApi\Business\CompanyUnitAddress;
+namespace FondOfSpryker\Zed\CompanyUnitAddressesRestApiConnector\Business\CompanyUnitAddress;
 
 use Codeception\Test\Unit;
 use FondOfSpryker\Zed\OrderCustomReferenceCheckoutRestApiConnector\Business\Mapper\OrderCustomReferenceQuoteMapper;

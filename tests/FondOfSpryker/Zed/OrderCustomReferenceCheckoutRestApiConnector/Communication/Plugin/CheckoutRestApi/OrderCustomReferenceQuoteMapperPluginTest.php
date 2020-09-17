@@ -1,6 +1,6 @@
 <?php
 
-namespace FondOfSpryker\Zed\OrderCustomReferenceCheckoutRestApi\Communication\Plugin\CheckoutRestApi;
+namespace FondOfSpryker\Zed\OrderCustomReferenceCheckoutRestApiConnector\Communication\Plugin\CheckoutRestApi;
 
 use Codeception\Test\Unit;
 use FondOfSpryker\Zed\OrderCustomReferenceCheckoutRestApiConnector\Business\OrderCustomReferenceCheckoutRestApiConnectorFacade;
