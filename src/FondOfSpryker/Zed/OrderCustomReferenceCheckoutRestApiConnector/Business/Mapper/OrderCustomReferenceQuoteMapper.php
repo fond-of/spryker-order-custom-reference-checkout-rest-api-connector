@@ -23,8 +23,7 @@ class OrderCustomReferenceQuoteMapper implements OrderCustomReferenceQuoteMapper
             return $quoteTransfer;
         }
 
-        $quoteTransfer
-            ->setOrderCustomReference($orderCustomReference);
+        $quoteTransfer->setOrderCustomReference($orderCustomReference);
 
         return $quoteTransfer;
     }
