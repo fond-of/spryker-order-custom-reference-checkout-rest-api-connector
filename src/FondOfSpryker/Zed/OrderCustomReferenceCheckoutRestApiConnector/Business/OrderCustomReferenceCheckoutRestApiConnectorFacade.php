@@ -2,7 +2,6 @@
 
 namespace FondOfSpryker\Zed\OrderCustomReferenceCheckoutRestApiConnector\Business;
 
-use FondOfSpryker\Zed\OrderCustomReferenceRestApi\Business\OrderCustomReferenceRestApiFacadeInterface;
 use Generated\Shared\Transfer\QuoteTransfer;
 use Generated\Shared\Transfer\RestCheckoutRequestAttributesTransfer;
 use Spryker\Zed\Kernel\Business\AbstractFacade;
@@ -12,9 +11,8 @@ use Spryker\Zed\Kernel\Business\AbstractFacade;
  */
 class OrderCustomReferenceCheckoutRestApiConnectorFacade extends AbstractFacade implements OrderCustomReferenceCheckoutRestApiConnectorFacadeInterface
 {
-
     /**
-     * {@inheritdoc}
+     * {@inheritDoc}
      *
      * @api
      *
